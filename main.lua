@@ -1,5 +1,5 @@
 username = "user"
-
+print("instructions, keywords: hello, hi, Who are you?, who are you, Tell me about dogs, tell me about dogs, bye goodbye")
 print("Hello! I am Luabot. Type something (or 'bye' to exit)")
 
 while true do
